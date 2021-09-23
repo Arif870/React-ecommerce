@@ -1,6 +1,6 @@
 import "./Header.css";
 import Logo from "../../Images/logo.png";
-import Menu from "./Menu/Menu";
+import Menu from "./Cart/Cart";
 import Search from "./Search/Search";
 
 let Header = () => {

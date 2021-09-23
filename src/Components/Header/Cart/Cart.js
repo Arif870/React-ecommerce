@@ -1,9 +1,9 @@
-import "./Menu.css";
+import "./Cart.css";
 
-let Menu = () => {
+let Cart = () => {
   return (
     <div className="menu">
-      <i class="fas fa-cart-plus"></i>
+      <i className="fas fa-cart-plus"></i>
       <span>
         <p>10</p>
       </span>
@@ -11,4 +11,4 @@ let Menu = () => {
   );
 };
 
-export default Menu;
+export default Cart;

@@ -19,7 +19,7 @@
 }
 .menu i {
   color: #282c34;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .menu span p {
@@ -35,5 +35,5 @@
   font-size: 12px;
   position: absolute;
   top: -10px;
-  left: 15px;
+  left: 20px;
 }
